@@ -1,0 +1,24 @@
+ ///Qu’est-ce qu’un SGBDR ?
+
+Un SGBD (Système de Gestion de Bases de Données) est un logiciel qui stocke des données de façon organisées et cohérentes. Un SGBDR (Système de Gestion de Bases de Données Relationnelles) est le type particulier de SGBD qui fera l’objet de ce cours. Il vous sera décrit plus tard ce qui fait qu’une bases de données est relationnelle.
+
+Les bases de données les plus répandues sont :
+
+Oracle, qui est considéré comme un des SGBDR les plus performants.
+Microsoft SQL Server, la mouture de microsoft, qui est intégré au framework .NET.
+mySQL, un logiciel libre fonctionnant souvent de pair avec Apache et Php, et de ce fait très répandu dans la programmation web.
+Access, incorporé à Microsoft Office. Il présente l’énorme avantage de mettre à disposition de l’utilisateur une interface graphique. En contrepartie il est mono-utilisateur et de faible capacité.
+Les SGBDRs sont généralement des serveurs auxquels des clients se connectent, il doivent supporter plusieurs connections simultanées. Les clients dialoguent alors avec le serveur pour lire ou écrire des donnés dans la base.
+Un système de gestion de base de données (SGBD) relationnel est un logiciel qui permet de manipuler le contenu des bases de données relationnelles. ... SQL (sigle de Structured Query Language) est le langage informatique le plus répandu utilisé pour formuler des requêtes d'algèbre relationnelle.
+
+//mySQL
+La méthode la plus simple pour s’initier à mysql est d’utiliser un kit de easyphp, wamp, etc. Vous disposez dans ce cas d’une option vous permettant d’ouvrir une console mysql.
+
+La liste des bases de données stockées dans le serveur s’obtient avec l’instruction
+
+//PostgreSQL 
+PostgreSQL est un système de gestion de base de données relationnelle et objet (SGBDRO). C'est un outil libre disponible selon les termes d'une licence de type BSD.
+
+Ce système est concurrent d'autres systèmes de gestion de base de données, qu'ils soient libres (comme MariaDB et Firebird), ou propriétaires (comme Oracle, MySQL, Sybase, DB2, Informix et Microsoft SQL Server). Comme les projets libres Apache et Linux, PostgreSQL n'est pas contrôlé par une seule entreprise, mais est fondé sur une communauté mondiale de développeurs et d'entreprises.
+//SQL SERVER 
+Microsoft SQL Server est un système de gestion de base de données (SGBD) en langage SQL incorporant entre autres un SGBDR (SGBD relationnel ») développé et commercialisé par la société Microsoft. Il fonctionne sous les OS Windows et Linux (depuis mars 2016), mais il est possible de le lancer sur Mac OS via Docker, car il en existe une version en téléchargement sur le site de Microsoft1.
